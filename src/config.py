@@ -1,7 +1,5 @@
-# scripts/config.py
-
-TRAIN_DIR = "/kaggle/input/ucsd-anomaly-dataset/UCSD_Anomaly_Dataset.v1p2/UCSDped1/Train"
-TEST_DIR = "/kaggle/input/ucsd-anomaly-dataset/UCSD_Anomaly_Dataset.v1p2/UCSDped1/Test"
+TRAIN_DIR = "data/UCSD_Anomaly_Dataset.v1p2/UCSDped1/Test"
+TEST_DIR = "data/UCSD_Anomaly_Dataset.v1p2/UCSDped1/Train"
 IMG_SIZE = 224
 BATCH_SIZE = 8
 EPOCHS = 2
