@@ -1,3 +1,4 @@
 data/
 anomaly/
 model/
+**/__pycache__/
